@@ -23,11 +23,15 @@
 |[@January1st-98](https://github.com/January1st-98)|[@eunsung-dev](https://github.com/eunsung-dev)|
 |메인 게시판<br>설정 View|자유 게시판<br>설정 View |
 
+<br>
+
 ## 🐶 Main Concept
 ---
 * `메인` 이미지와 함께 다른분들의 반려동물을 보거나 나의 반려동물을 자랑할 수 있어요.
 * `자유게시판` 이미지 없이 자유롭게 글을 쓸 수 있어요. 여러정보들을 이곳에서 물어봅니다.
 * `설정` 내 정보를 수정하거나 애플리케이션의 설정정보를 담고있어요. 로그아웃과 회원 탈퇴도 이곳에서 진행할 수 있습니다.
+
+<br>
 
 ## ⚒ UPDATE
 ### 1.0.0
@@ -50,6 +54,8 @@
 ### 1.0.4
 ---
 * 회원탈퇴기능을 추가하였습니다.
+
+<br>
 
 ## 🔨 Architecture
 ![image](https://user-images.githubusercontent.com/39147372/197539090-a82ef343-d1ec-457b-a6aa-e8bfb3bdba92.png)

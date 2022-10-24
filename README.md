@@ -1,6 +1,7 @@
 <img src = "https://user-images.githubusercontent.com/76734067/170886150-2482745b-906f-4e69-a075-28844ce87c59.png">
 
-> 우리 가족을 자랑하는 반려동물 커뮤니티 서비스 🐶
+> 우리 가족을 자랑하는 반려동물 커뮤니티 서비스 🐶 <br>
+> **수행기간: 2022.3.13. - 2022.6.26.**
 
 <br />
 
@@ -15,11 +16,18 @@
 
 <br>
 
+## 🙆🏻‍♂️ Team Members
+|소재훈(팀장)|최은성(팀원)|
+|:-:|:-:|
+|<img src="https://avatars.githubusercontent.com/u/76734067?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/39147372?v=4" width=200>|
+|[@January1st-98](https://github.com/January1st-98)|[@eunsung-dev](https://github.com/eunsung-dev)|
+|메인 게시판<br>설정 View|자유 게시판<br>설정 View |
+
 ## 🐶 Main Concept
 ---
 * `메인` 이미지와 함께 다른분들의 반려동물을 보거나 나의 반려동물을 자랑할 수 있어요.
 * `자유게시판` 이미지 없이 자유롭게 글을 쓸 수 있어요. 여러정보들을 이곳에서 물어봅니다.
-* `설정` 내 정보를 수정하거나 애플리케이션의 설정정보를 담고있어요.로그아웃과 회원 탈퇴도 이곳에서 진행할 수 있습니다.
+* `설정` 내 정보를 수정하거나 애플리케이션의 설정정보를 담고있어요. 로그아웃과 회원 탈퇴도 이곳에서 진행할 수 있습니다.
 
 ## ⚒ UPDATE
 ### 1.0.0
@@ -43,4 +51,5 @@
 ---
 * 회원탈퇴기능을 추가하였습니다.
 
-
+## 🔨 Architecture
+![image](https://user-images.githubusercontent.com/39147372/197539090-a82ef343-d1ec-457b-a6aa-e8bfb3bdba92.png)

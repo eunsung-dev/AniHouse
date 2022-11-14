@@ -22,7 +22,7 @@
 |:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/76734067?v=4" width=200>|<img src="https://avatars.githubusercontent.com/u/39147372?v=4" width=200>|
 |[@January1st-98](https://github.com/January1st-98)|[@eunsung-dev](https://github.com/eunsung-dev)|
-|로그인 View<br>메인 게시판<br>설정 View|자유 게시판<br>설정 View |
+|로그인 View<br>메인 게시판<br>설정 View|로그인 View<br>자유 게시판<br>설정 View |
 
 <br>
 
